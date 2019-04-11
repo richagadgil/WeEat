@@ -8,7 +8,7 @@
     ]
   },
   "hosting": {
-    "public": "WeEat",
+    "public": "WeEat/WeEat",
     "ignore": [
       "firebase.json",
       "**/.*",
